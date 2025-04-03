@@ -8,4 +8,6 @@ A personal portfolio website that highlights my skills, background, and projects
 • Contact: a contact section to make it easy for potential collaborators or employers to get in touch with me.
 
 Guidelines
+
 1. Skills: Used HTML and CSS to build my
+2. hosted link: https://gontseportfolio.netlify.app/
